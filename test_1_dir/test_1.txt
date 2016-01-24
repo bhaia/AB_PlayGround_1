@@ -1,2 +1,0 @@
-Bismillah
-This is test_1.txt file // added on Jan 24 at 7:51am. This will be second commit to learn Vim commands. 
